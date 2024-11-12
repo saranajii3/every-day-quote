@@ -1,2 +1,3 @@
 # every-day-quote
-js .html,css
+HTML,CSS,JS
+
