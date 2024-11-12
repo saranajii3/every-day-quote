@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(207, 69, 92)
+}
+.quote{
+    text-align: center;
+    padding-top: 70px;
+    
+}
+button{
+    background-color: pink;
+
+}
+.quote p{
+    font-size: 40px;
+    color: beige;
+}
+.quote h1{
+    color: beige;
+
+}
